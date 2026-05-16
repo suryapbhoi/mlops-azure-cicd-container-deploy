@@ -1,4 +1,4 @@
-name: Azure Container Apps CI/CD
+name: Azure Container Apps CI/CD version1
 
 pr:
   branches:
